@@ -39,3 +39,7 @@ $T variable stands for _today_ or _now_. For example, if today is 29.02.2024, th
   Output 1: `5 years, 11 months and 1 days`
 
   _Note:_ bd cannot work with $T (stands for now). I am working to it was able to work with $T (stands for now).
+
+# TODO
+* Translate script into english
+* Add ability for _bd_ and _bt_ to use $T.
