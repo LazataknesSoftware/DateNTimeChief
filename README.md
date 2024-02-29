@@ -7,7 +7,7 @@ Date and time manipulation tool
 
 $T variable stands for _today_ or _now_. For example, if today is 29.02.2024, then the $T will have value 29.02.2024
 
-* **amtt** <HOUR:MINUTE | $T> <MINUTES TO ADD> - add MINUTES TO ADD minutes to HOUR:MINUTE or $T (stands for now).
+* **amtt** <HOUR:MINUTE | $T> \<MINUTES TO ADD\> - add MINUTES TO ADD minutes to HOUR:MINUTE or $T (stands for now).
   
   Example 1: `amtt 10:20 30`
   
@@ -16,7 +16,7 @@ $T variable stands for _today_ or _now_. For example, if today is 29.02.2024, th
   Example 2: `amtt $T 10` (where $T = 10:10, for example)
 
   Output 2 `10:20`
-* **adtd** <DAY.MONTH.YEAR | $T> <DAYS> - add DAYS to DAY.MONTH.YEAR or $T (stands for now).
+* **adtd** <DAY.MONTH.YEAR | $T> \<DAYS\> - add DAYS to DAY.MONTH.YEAR or $T (stands for now).
 
   Example 1: `adtd 01.01.2018 2`
 
