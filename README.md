@@ -1,6 +1,7 @@
 # DateNTimeChief
 Date and time manipulation tool
 
+![This is an application](https://github.com/LazataknesSoftware/LazataknesSoftware/blob/main/applicationtype-application.png)
 > **Node.js must be installed to use DateNTimeChief.**
 
 # How to use
